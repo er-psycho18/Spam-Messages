@@ -5,7 +5,8 @@ This is a project to spam messages
 
 # Please don't misuse this. Use it for fun not for revenge
 
-For credits contact owner at
+#For credits contact owner at
+
 gmail = vaishgabha@gmail.com 
 
 linked in = https://www.linkedin.com/in/vaishnav-arora-11a467228/ 
